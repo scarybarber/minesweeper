@@ -21,6 +21,6 @@ https://user-images.githubusercontent.com/your-demo-gif-link
 ## 🖥️ How to Run
 
 ```bash
-git clone https://github.com/yourusername/minemind.git
-cd minemind
+git clone https://github.com/yourusername/minesweeper.git
+cd minesweeper
 python minesweeper.py
